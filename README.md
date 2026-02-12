@@ -1,31 +1,31 @@
-# Proyecto de Limpieza de Datos – Sprint 2
+# STORE 1 - Continuation: Data Cleaning 
 
-## 📌 Descripción
-Este proyecto se centra en la limpieza y procesamiento de datos como parte de un flujo de análisis de datos.  
-El objetivo es trabajar con listas y tablas utilizando código en Python para preparar información de clientes de la tienda *Store 1*.
+## 📌 Description
+This project focuses on data cleaning and data processing as part of a data analysis workflow.  
+The objective is to work with lists and tabular data using Python code to prepare customer information from *Store 1*.
 
 ---
 
-## 🛠️ Herramientas
+## 🛠️ Tools
 - Python  
 - Jupyter Notebook (VS Code)  
 
 ---
 
 ## 📂 Dataset
-El dataset contiene información de clientes de *Store 1*, representada mediante listas y estructuras tipo tabla.  
-Los datos requieren procesamiento y validación antes de su análisis.
+The dataset contains customer information from *Store 1*, represented through lists and table-like data structures.  
+The data requires processing and validation prior to analysis.
 
 ---
 
-## 🔍 Tareas realizadas
-- Limpieza de datos usando listas y tablas  
-- Uso de funciones para organizar el código  
-- Implementación de ciclos `for` para procesar datos  
-- Uso de `randint` para generar y manipular valores  
-- Preparación de los datos para análisis posteriores  
+## 🔍 Tasks Performed
+- Data cleaning using lists and tabular structures  
+- Use of functions to organize and structure the code  
+- Implementation of `for` loops for data processing  
+- Use of `randint` to generate and manipulate values  
+- Data preparation for further analysis  
 
 ---
 
-## 👩‍💻 Autora
+## 👩‍💻 Author
 **Emilia Prats**
